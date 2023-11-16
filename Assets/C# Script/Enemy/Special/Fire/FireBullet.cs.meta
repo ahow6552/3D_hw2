@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f5058bc8b14c8014693a4306708edff9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Magma: {fileID: 646265805728672490, guid: 4d2f4d3da17c16c489ac73a1668ebb7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
